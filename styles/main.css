@@ -207,7 +207,7 @@ p.description {
     &::before {
       position: relative;
       top: 2px;
-      content: url(./images/icon-ethereum.svg);
+      content: url(../images/icon-ethereum.svg);
       margin-inline-end: 0.5rem;
     }
   }
@@ -219,7 +219,7 @@ p.description {
     &::before {
       position: relative;
       top: 2px;
-      content: url(./images/icon-clock.svg);
+      content: url(../images/icon-clock.svg);
       margin-inline-end: 0.5rem;
     }
   }
