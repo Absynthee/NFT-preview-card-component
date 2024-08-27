@@ -106,7 +106,7 @@ main {
   flex-direction: column;
   max-width: 350px;
   height: 600px;
-  background-color: var(--darkblue3);
+  background-color: var(--darkblue2);
   color: var(--softblue);
   padding: 1.5rem;
   border-radius: 10px;
